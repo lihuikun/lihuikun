@@ -3,6 +3,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=你不会困，写代码就不会困了&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=lihuikun&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="lihuikun's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3664010809185870&hide_border=true" alt="你不会困的掘金数据" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
+
 
 ![](https://github.com/lihuikun/lihuikun/blob/output/github-contribution-grid-snake.svg)
 
